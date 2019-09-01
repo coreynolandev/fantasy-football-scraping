@@ -1,2 +1,3 @@
 # fantasy-football-scraping
-Scrapes ESPN Fantasy Football website for player PPR Rankings
+Scrapes ESPN Fantasy Football website for player PPR Rankings.
+First solo repo!
